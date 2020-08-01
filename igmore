@@ -1,0 +1,13 @@
+yarn
+k8s
+    k8s集群
+
+jobmanager  作业管理器
+
+taskmanager 任务管理器
+resourcemanger  资源管理器
+dispatcher  分发器
+
+    ==================================================
+Flink
+    11:flink运行架构
